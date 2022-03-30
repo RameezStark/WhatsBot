@@ -8,8 +8,8 @@ module.exports = {
       fs.readFileSync(__dirname + "/session.json", { encoding: "utf8" })
   ), //if not using env vars create a file named session.json
   pmpermit_enabled: process.env.PMPERMIT_ENABLED || "true",
-  mongodb_url: process.env.MONGODB_URL || process.env.MONGO_URL || "",
+  mongodb_url: process.env.MONGODB_URL || process.env.MONGO_URL || "mongodb+srv://davincijr:Rameez%21%217264@cluster0.lgikw.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
   default_tr_lang: process.env.DEFAULT_TR_LANG || "en",
   enable_delete_alert: process.env.ENABLE_DELETE_ALERT || "true",
-  ocr_space_api_key: process.env.OCR_SPACE_API_KEY || "",
+  ocr_space_api_key: process.env.OCR_SPACE_API_KEY || "K81295109188957",
 };
