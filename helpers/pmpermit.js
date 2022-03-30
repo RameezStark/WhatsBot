@@ -102,14 +102,15 @@ async function handler(id) {
     var checkPermit = await read(id);
   }
 
-  if (!checkPermit.found) {
-    await insert(id);
-    return {
-      permit: false,
-      block: false,
-      msg: `*✋ Wait*\n\n Please wait until I will get back to Online, Kindly don't send another message.\n\n _Powered by WhatsBot_`,
-    };
-  } else if (checkPermit.found && !checkPermit.permit) {
+  // if (!checkPermit.found) {
+  //   await insert(id);
+  //   return {
+  //     permit: false,
+  //     block: false,
+  //     msg: `*✋ Wait*\n\n Please wait until I will get back to Online, Kindly don't send another message.\n\n _Powered by WhatsBot_`,
+  //   };
+  // } else
+   if (checkPermit.found && !checkPermit.permit) {
     if (checkPermit.times > 3) {
       return {
         permit: false,
