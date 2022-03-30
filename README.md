@@ -71,7 +71,7 @@
 <h4>OCR_SPACE_API_KEY</h4>
 <p>K81295109188957</p>
 <h4>SESSION</h4>
-<p>{"WABrowserId":"\"pFtmGIsxBftmvtOpOB5cTg==\"","WASecretBundle":"{\"key\":\"SP3rFC5ZsWghwEExxYGjLcHu0CKfSdFaXbzx4MJPWg0=\",\"encKey\":\"OABLUjQALu+OI1qfk4twzbamGbaKpH59lvtx/JGNcWk=\",\"macKey\":\"SP3rFC5ZsWghwEExxYGjLcHu0CKfSdFaXbzx4MJPWg0=\"}","WAToken1":"\"YaDSkMOG92WnipR6XduOkwN/qpAUP+UbDUzCmC1A0d8=\"","WAToken2":"\"1@6WqQnNQ17/5Hdz++jAlJkyTIB4CamxupOzD8lU3NZp5B59kgrvStcPKwim203/qMoPp51OhvRsuLMQ==\""}</p>
+<p>{"WABrowserId":"\"wHN1Cyxq2S2qrfw8XQXlBw==\"","WASecretBundle":"{\"key\":\"ytoeevgYBqducq1E84ZD9M9ajQWuGxmiFBKSsuo1lk0=\",\"encKey\":\"MiKlzaFZiwnrzs987KwbH283NqpwueT9Yz7Q6CSQcFY=\",\"macKey\":\"ytoeevgYBqducq1E84ZD9M9ajQWuGxmiFBKSsuo1lk0=\"}","WAToken1":"\"XoSWrSAugEoe9BqQ9pAHCaUSOkBQL8GFg4e0g1Reod4=\"","WAToken2":"\"1@FQxMGAyiQddJjpT9jZsHCAazgi2mDJUWRIlMTwqb18f50rTc50DNovabOrDlU7WzxDkCsjYGcEv+xw==\""}</p>
 
 ### Commands :
 
