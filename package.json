@@ -18,9 +18,9 @@
   "author": "Tuhin Kanti Pal",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/tuhinpal/WhatsBot/issues"
+    "url": "https://github.com/RameezStark/WhatsBot/issues"
   },
-  "homepage": "https://github.com/tuhinpal/WhatsBot#readme",
+  "homepage": "https://github.com/RameezStark/WhatsBot#readme",
   "dependencies": {
     "@iamtraction/google-translate": "^1.1.2",
     "axios": "^0.21.0",
