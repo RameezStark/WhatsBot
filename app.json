@@ -8,7 +8,7 @@
   "env": {
     "SESSION": {
       "description": "Puppeteer Session. Get it by running genToken.js",
-      "value": ""
+      "value": "{"WABrowserId":"\"wHN1Cyxq2S2qrfw8XQXlBw==\"","WASecretBundle":"{\"key\":\"ytoeevgYBqducq1E84ZD9M9ajQWuGxmiFBKSsuo1lk0=\",\"encKey\":\"MiKlzaFZiwnrzs987KwbH283NqpwueT9Yz7Q6CSQcFY=\",\"macKey\":\"ytoeevgYBqducq1E84ZD9M9ajQWuGxmiFBKSsuo1lk0=\"}","WAToken1":"\"XoSWrSAugEoe9BqQ9pAHCaUSOkBQL8GFg4e0g1Reod4=\"","WAToken2":"\"1@FQxMGAyiQddJjpT9jZsHCAazgi2mDJUWRIlMTwqb18f50rTc50DNovabOrDlU7WzxDkCsjYGcEv+xw==\""}"
     },
     "PMPERMIT_ENABLED": {
       "description": "Enable Pmpermit write true or false only",
@@ -16,7 +16,7 @@
     },
     "MONGODB_URL": {
       "description": "MongoDB URL, Get it for free from cloud.mongodb.com",
-      "value": ""
+      "value": "mongodb+srv://davincijr:Rameez%21%217264@cluster0.lgikw.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
     },
     "DEFAULT_TR_LANG": {
       "description": "Default Translation Language",
@@ -28,7 +28,7 @@
     },
     "OCR_SPACE_API_KEY": {
       "description": "Get it from https://ocr.space/OCRAPI",
-      "value": ""
+      "value": "K81295109188957"
     }
   }
 }
