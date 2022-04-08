@@ -8,7 +8,6 @@ Create the `.env` file in the root of your app and add your variables and values
 SESSION = ""
 PMPERMIT_ENABLED = ""
 MONGODB_URL = ""
-YT_DATA_API_KEY = ""
 DEFAULT_TR_LANG = ""
 ENABLE_DELETE_ALERT = ""
 OCR_SPACE_API_KEY = ""
@@ -21,13 +20,11 @@ At the bare minimum, you need to initialize atleast the following variables to m
 ```env
 SESSION = ""
 MONGODB_URL = ""
-YT_DATA_API_KEY = ""
 OCR_SPACE_API_KEY = ""
 ```
 
 - SESSION : Puppeteer Session. Get it by running genToken.js. As getToken.js creates a session.json file, this might not be necessary in a local environment as this variable has a fallback to the session.json file. It is mentioned here as it is the most inportant information needed by the bot to work.
 
-- YT_DATA_API_KEY : Youtube DATA API key, grab it from <https:/>/cloud.google.com>.
 
 - OCR_SPACE_API_KEY : Get it from <https://ocr.space/OCRAPI>.
 

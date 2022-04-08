@@ -44,7 +44,6 @@
 
 - **pmpermit** - Permission for direct message
 - **term** - Terminal in Whatsapp
-- **yt** - Download Youtube video from link
 - **weather** - Lookup today's weather
 - **carbon** - Generate beautiful image from text
 - **sing** - Download a song by search
